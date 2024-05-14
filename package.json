@@ -1,8 +1,9 @@
 {
-  "homepage": "https://Suhani546.github.io/FrontEnd-application-Development-assignment",
+  "homepage": "https://Suhani546.github.io/Frontend-Development-Project",
   "name": "react-project",
   "version": "1.0.0",
   "description": "",
+  "private":false,
   "main": "App.js",
   "scripts": {
     "predeploy": "npm run build",

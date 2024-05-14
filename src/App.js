@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import { Routes, Route as RoutedRoute } from 'react-router';
 import BooksPage from './BooksPage';
 import BookDetailsPage from './BookDetailsPage';
